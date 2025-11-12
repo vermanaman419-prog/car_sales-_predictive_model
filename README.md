@@ -146,5 +146,5 @@ Machine Learning Enthusiast
 
 📍 Gurugram, India  
 📧 [vermanaman419@gmail.com](mailto:vermanaman419@gmail.com)  
-🔗 [LinkedIn](www.linkedin.com/in/naman419)  
+🔗 [LinkedIn] www.linkedin.com/in/naman419  
   
