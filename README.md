@@ -76,7 +76,7 @@ Transform structured sales data into an interactive, user-driven recommendation 
 
 ---
 
-## 💻 Dashboard / Web Interface
+## 💻  Web Interface
 
 **Interactive Flask App**
 
@@ -113,7 +113,7 @@ Users can:
 
 ---
 
-## 🧱 Folder Structure
+
 
 ---
 
